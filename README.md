@@ -1,3 +1,5 @@
+# E-commerce Website Project Plan
+
 # Project Overview
 This project focuses on the analysis, planning, and design of an e-commerce system. The main goal was to understand business requirements and translate them into structured system documentation, supporting effective system development and implementation.
 
@@ -25,3 +27,4 @@ Systems Analysis and Design
 Requirements gathering and documentation
 Project planning and coordination
 Analytical and problem-solving skills
+
